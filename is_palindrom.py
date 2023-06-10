@@ -1,3 +1,4 @@
+
 def is_palindrom(str):
     reversed_str=''.join(reversed(str))
     if reversed_str==str:
